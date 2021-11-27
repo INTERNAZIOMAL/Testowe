@@ -33,7 +33,11 @@
 
 <body>
     <h1>Witaj na stronie :)</h1>
+<<<<<<< HEAD
+    <h2>Blog podróżniczy - objazd po Redgrave w 28 dni</h2>
+=======
     <h2>Blog podróżniczy - objazd dookoła Bałtyku</h2>
+>>>>>>> edit_h2
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis quisquam voluptatibus delectus quam excepturi
         doloribus? Officiis, quaerat libero. Velit quis tempore aliquid rem ratione ipsum odio, vero obcaecati delectus
         voluptatem.</p>
